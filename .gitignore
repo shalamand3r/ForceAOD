@@ -1,0 +1,10 @@
+.theos/
+packages/
+.cache/
+research/
+ForceAODPrefs/
+*.deb
+*.log
+*.ips
+*.dSYM/
+.DS_Store

@@ -1,0 +1,11 @@
+Package: com.shalamand3r.forceaod
+Name: ForceAOD
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: ellekit | mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Description: Enable Apple's native Always-On Display on unsupported devices (iOS 16.0+).
+Maintainer: shalamand3r
+Author: shalamand3r
+Section: Tweaks
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/forceaod.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/forceaod.json
